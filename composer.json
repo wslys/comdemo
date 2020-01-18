@@ -1,0 +1,16 @@
+{
+    "name": "wslys/comdemo",
+    "description": "王世领测试",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.6"
+    },
+    "authors": [
+        {
+            "name": "wslgit",
+            "email": "wsl_ys@163.com"
+        }
+    ],
+    "minimum-stability":"dev"
+}
